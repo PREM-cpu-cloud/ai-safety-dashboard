@@ -5,7 +5,7 @@ It was developed as part of a take-home assignment for **HumanChain**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - View list of AI safety incidents
 - Filter incidents by severity (Low, Medium, High, All)
@@ -16,7 +16,7 @@ It was developed as part of a take-home assignment for **HumanChain**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** (with Functional Components)
 - **TypeScript**
@@ -24,7 +24,7 @@ It was developed as part of a take-home assignment for **HumanChain**.
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 1. **Clone the repository**:
    ```bash
